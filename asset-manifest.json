@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mood-ring/static/css/main.ed7864a2.chunk.css",
+    "main.js": "/mood-ring/static/js/main.f49aa384.chunk.js",
+    "main.js.map": "/mood-ring/static/js/main.f49aa384.chunk.js.map",
+    "runtime-main.js": "/mood-ring/static/js/runtime-main.408f8fda.js",
+    "runtime-main.js.map": "/mood-ring/static/js/runtime-main.408f8fda.js.map",
+    "static/js/2.eb306067.chunk.js": "/mood-ring/static/js/2.eb306067.chunk.js",
+    "static/js/2.eb306067.chunk.js.map": "/mood-ring/static/js/2.eb306067.chunk.js.map",
+    "static/js/3.af359cec.chunk.js": "/mood-ring/static/js/3.af359cec.chunk.js",
+    "static/js/3.af359cec.chunk.js.map": "/mood-ring/static/js/3.af359cec.chunk.js.map",
+    "index.html": "/mood-ring/index.html",
+    "static/css/main.ed7864a2.chunk.css.map": "/mood-ring/static/css/main.ed7864a2.chunk.css.map",
+    "static/js/2.eb306067.chunk.js.LICENSE.txt": "/mood-ring/static/js/2.eb306067.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.408f8fda.js",
+    "static/js/2.eb306067.chunk.js",
+    "static/css/main.ed7864a2.chunk.css",
+    "static/js/main.f49aa384.chunk.js"
+  ]
+}
