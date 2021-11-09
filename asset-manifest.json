@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mood-ring/static/css/main.b1fb7d19.chunk.css",
-    "main.js": "/mood-ring/static/js/main.c30af28f.chunk.js",
-    "main.js.map": "/mood-ring/static/js/main.c30af28f.chunk.js.map",
+    "main.js": "/mood-ring/static/js/main.e2720cc5.chunk.js",
+    "main.js.map": "/mood-ring/static/js/main.e2720cc5.chunk.js.map",
     "runtime-main.js": "/mood-ring/static/js/runtime-main.408f8fda.js",
     "runtime-main.js.map": "/mood-ring/static/js/runtime-main.408f8fda.js.map",
     "static/js/2.eb306067.chunk.js": "/mood-ring/static/js/2.eb306067.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.408f8fda.js",
     "static/js/2.eb306067.chunk.js",
     "static/css/main.b1fb7d19.chunk.css",
-    "static/js/main.c30af28f.chunk.js"
+    "static/js/main.e2720cc5.chunk.js"
   ]
 }
